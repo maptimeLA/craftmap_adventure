@@ -11,7 +11,8 @@ This repo is to plan, discuss a quilt making project using data from openstreetm
 * Anyone can help with the effort, workshops should be held to teach how to go about crafting.
 * Crafters would take a tile, complete it and add more information onto the tile based on their knowledge of the area being crafted.
 * Crafters would hand their completed tiles to the project leaders for addition to the quilt.
-* Thoughts of where the quilt could be hung in public view so that others can find out and participate in the project.
+* The quilt could be hung in public view so that others can find out and participate in the project.
+* In the end, if there is any (it could be this giant quilt that spans a mile) people would get together to learn about crafting and maps all the learning about their city and bringing a sense of togetherness.
 
 
 ##Steps for a workshop
