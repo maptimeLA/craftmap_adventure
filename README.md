@@ -43,3 +43,9 @@ This repo is to plan, discuss a quilt making project using data from openstreetm
   - Seed Stitch
   - Cross Stitch
 
+## Pattern Transfer Methods
+
+- Iron on laser printed pattern.
+- Draw freehand with pencil or water soluble pen.
+- Trace over a lightbox or using carbon-transfer paper.
+- Stencil outline
