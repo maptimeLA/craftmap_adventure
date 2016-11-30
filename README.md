@@ -1,8 +1,8 @@
 # craftmap_adventure
-Open Source Embroidered Quilt using OSM data for anyone to jump in an contribute
+This project an Open Source Embroidered Quilt using OSM data for anyone to jump in an contribute to.
 
 ## Proposal
-This repo is to plan, discuss a quilt making project using data from openstreetmap to make "fabric tiles" made by anyone to add on to the quilt. This repo will also be a source for any city to make their own as we'll outline steps to hold workshops and instructions for putting the quilt together
+This repo is to plan and discuss a quilt making project using data from OpenStreetMap.  By making a quilt of "fabric tiles", anyone can  add to the quilted map. This repo will also be a source for any city to replicate the project and make their own map quilt.  We will outline steps for workshops and list instructions for putting the quilt together.
 
 ## Breakdown of what this is
 * Basically we use openstreetmap data to create an embroidered quilt map of "fabric tiles." 
@@ -40,6 +40,7 @@ This repo is to plan, discuss a quilt making project using data from openstreetm
 - Stitches
   - Starting thread
   - Ending thread
+  - Running Stitch
   - Back Stitch
   - Split Stitch
   - Chain Stitch
@@ -61,3 +62,9 @@ This repo is to plan, discuss a quilt making project using data from openstreetm
 - Rail - 4 strands
 - Major streets - 2 strands light gray
 - Waterways - blue
+
+## More Ideas
+
+- Find a community partner willing to display the finished (or growing) quilt.  @machiko mentioned Opodz in Little Tokyo.
+- 
+
