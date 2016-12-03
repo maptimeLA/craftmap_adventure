@@ -18,9 +18,9 @@ This repo is to plan and discuss a quilt making project using data from OpenStre
 ## Steps for a workshop
 
 1. Plan workshop:
- * Stitch guides.
- * Create basic patterns: state outline + major cities, local city outlines, local rail/transit networks, local geography, lettering.
- * Quilt project specifications.
+ * Stitch guide.
+ * Choose a basic pattern: state outline + major cities, local city outlines, local rail/transit networks, local geography, lettering.
+ * Create quilt project specifications.
 2. Set up a meeting!
  * Create a title like "Let's make a quilt!!" or "Needles and crafts and maps oh my!"
  * When setting up a meeting, let people know about the materials cost.
@@ -49,12 +49,9 @@ This repo is to plan and discuss a quilt making project using data from OpenStre
   - French Knot
   - Seed Stitch
 
-## Pattern Transfer Methods
+## Pattern Transfer
 
-- Iron on laser printed pattern.
-- Draw freehand with pencil or water soluble pen.
-- Trace over a lightbox or using carbon-transfer paper.
-- Stencil outline
+- Draw/trace with water soluble pen.
 
 ## Quilt Style Guide
 
