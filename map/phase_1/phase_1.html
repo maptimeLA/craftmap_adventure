@@ -44,8 +44,9 @@
       }).addTo(map);
     
     //This allows to click on a tile to load the image to the right panel    
-    $("#map img").click(function(){
+    $("#map").on("click","img",function(e){
         var imagelink=$(this).attr("src");
+        console.log(imagelink);
         $("#image").html("<img src='"+imagelink+"'>");
     });
     
@@ -58,7 +59,7 @@
 </head>
 <body>
   <div id="map"></div>
-    <div id="imagepane"><div id="info"><h2>6 INCH Tile Maker | By Omar Ureta</h2><p>Select your map tile by click on the map. The selected tile will appear on the right. Clicking on the right tile will prompt a window to print the tile to approximately 6 inches</p></div><div id="image"></div>
+    <div id="imagepane"><div id="info"><h2>6 INCH Tile Maker | By Omar Ureta</h2><p>Select your map tile by clicking on the map. The selected tile will appear on the right. Clicking on the right tile will prompt a window to print the tile to approximately 6 inches</p></div><div id="image"></div>
     </div>
 </body>
 </html>
