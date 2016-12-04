@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>phase_1 - LeafLet Preview</title>
+  <meta charset="utf-8" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+  <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.2/leaflet.css" />
+  <style type="text/css">
+     body { margin:0; padding:0; }  
+    .leaflet-tile-loaded{
+    border: 2px solid red;
+    }
+    #map { position:absolute; left: 0; top:0; bottom:0; width:50%; }
+    #imagepane{position:absolute; right: 0; top:0; bottom:0; width:50%;  }
+    #image img{    
+        position: absolute;
+        margin: auto;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+    }
+    #info{
+    padding: 10px;
+    }
+    #info p {width:50%;}
+    @media print {
+        #map {display:none}
+        #imagepane{width:100%;}
+        #info{display:none}
+        #image img {width:6in}
+      }
+  </style>
+  <script src="http://cdn.leafletjs.com/leaflet-0.7.2/leaflet.js"></script>
+  <script>
+    $(document).ready(function () {
+      var map = L.map('map').setView([34.0564, -118.2944], 13);
+      var mytile =L.tileLayer('/phase_1/{z}/{x}/{y}.png', {
+        maxZoom: 13,
+        tms: false,
+        attribution: 'Made by Omar Ureta using QGIS'
+      }).addTo(map);
+    
+    //This allows to click on a tile to load the image to the right panel    
+    $("#map img").click(function(){
+        var imagelink=$(this).attr("src");
+        $("#image").html("<img src='"+imagelink+"'>");
+    });
+    
+    //This scales the image to 6 inches and prints    
+    $("#image").on("click","img", function(e){
+        print(this);
+    });
+    })
+  </script>
+</head>
+<body>
+  <div id="map"></div>
+    <div id="imagepane"><div id="info"><h2>6 INCH Tile Maker | By Omar Ureta</h2><p>Select your map tile by click on the map. The selected tile will appear on the right. Clicking on the right tile will prompt a window to print the tile to approximately 6 inches</p></div><div id="image"></div>
+    </div>
+</body>
+</html>
