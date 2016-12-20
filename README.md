@@ -46,6 +46,6 @@ This repo is to plan and discuss a quilt making project using data from OpenStre
 ## More Ideas
 
 * Find a community partner willing to display the finished (or growing) quilt.
-  * Opodz in Little Tokyo.
-  * The Craft and Folk Art Museum (CAFAM) in Mid-Wilshire.
+  * Opodz in Little Tokyo?
+  * The Craft and Folk Art Museum (CAFAM) in Mid-Wilshire?
 
