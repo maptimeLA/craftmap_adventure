@@ -17,9 +17,8 @@ This repo is to plan and discuss a quilt making project using data from OpenStre
 
 ## Steps for a workshop
 
-1. Plan workshop:
+1. Plan an intro workshop:
  * Choose a basic pattern, for example: state outline + major cities, local city outlines, local rail/transit networks, local geography, lettering.
- * Create quilt project specifications.
 2. Set up a meeting!
  * Create a title like "Let's make a quilt!!" or "Needles and crafts and maps oh my!"
  * When setting up a meeting, let people know about the materials cost.
@@ -29,26 +28,24 @@ This repo is to plan and discuss a quilt making project using data from OpenStre
  * Start a simple embroidery project.
  * Introduce the quilt project.
 
-## Embroidery basics
+## Steps for the quilt project
 
-- Materials
-  - placing fabric in hoop
-  - pattern transfer methods
-    - iron-on patterns
-    - water soluble pen
-    - pencil
-  - embroidery thread
-    - DMC embroidery floss, 6 strands
-- Starting
-- Finishing
-- Stitches
-  - Running Stitch
-  - Back Stitch
-  - Chain Stitch
-  - Satin Stitch
-  - French Knot
+1. Create quilt project specifications:
+  * Choose features to include.
+  * Decide on standard thread colors and stitch types.
+  * Decide on Open Street Map tile zoom level.
+2. Create a webpage to select the Open Street Map tiles for printing.
+3. Set up a meeting.
+4. Meeting breakdown:
+  * Introductions
+  * Introduce quilt project.
+  * Separate participants into 2 groups: those we need stitch instruction and those who don't.
+  * Have the beginners do the intro workshop project.
+  * Have the others pick a tile and start on the quilt project.
 
 ## More Ideas
 
-- Find a community partner willing to display the finished (or growing) quilt.  @machiko mentioned Opodz in Little Tokyo.
+* Find a community partner willing to display the finished (or growing) quilt.
+  * Opodz in Little Tokyo.
+  * The Craft and Folk Art Museum (CAFAM) in Mid City.
 
