@@ -2,14 +2,26 @@
 
 ## Project: State Map
 
-### Material
+### Materials & Costs
 
-* embroidery hoop (6"-7" is a good manageable size)
-* woven cotton/linen fabric (muslin is a cheap easy to use fabric) cut into a square roughly twice the size of your hoop
-* chenille embroidery needle (size 18-24, depending on how tight your fabric is and how big you want the eye of the needle to be)
-* embroidery floss in your choice of colors
-* washable transfer pen ([like this one](https://www.amazon.com/DMC-U1539-Embroidery-Transfer-Blue/dp/B000W5HTX4))
-* posterboard template of your choice of state (we found one for [California here](http://www.vectorportal.com/maps/north-america/california-outline-map/3336.aspx))
+#### Individual
+
+Item | Cost | Notes
+-----|------|-------
+Embroidery Hoop | $2 | 6-7" is a good manageable size |
+Fabric | ~$.50 assuming a yield of nine 12" x 12" squares per yard, at a cost of $2/yard at JoAnn's for cotton muslin | A plain woven fabric in cotton or linen.  Muslin is cheap and works well. |
+Tapestry or Chenille Needles | $.25 | Size 20-24 should be fine.  You want the sharp tip of a chenille needle if your fabric has a tight weave.  Smaller numbers mean bigger needles.  A bigger needle might be better if you want to use thicker threads or you have difficulty threading the eye. |
+Embroidery Floss in your choice of colors | varies | Price can vary from $.40 to $.75 for each skein.  They come in variety packs as well. |
+
+#### Shared 
+
+Item | Notes
+-----|-------
+Scissors | To cut the embroidery floss with. |
+Washable Transfer Pens | Typically comes in blue, ([like this one](https://www.amazon.com/DMC-U1539-Embroidery-Transfer-Blue/dp/B000W5HTX4)) |
+Blank Paper | For sketching designs. |
+Posterboard template of a state | We used this [California vector graphic](http://www.vectorportal.com/maps/north-america/california-outline-map/3336.aspx). |
+
 
 ### Instructions
 
@@ -25,7 +37,7 @@
 
 6. Remove the fabric from the hoop and flip it over.  Put the fabric back in the hoop so the tracing is now on the top.
 
-7. Outline and decorate your state with your choice of embroidery stitches.
+7. Outline and decorate your state with your choice of embroidery stitches.  Embroidery floss comes as 6 strands twisted together.  It is typically separated into 2 sets of 3 strands, or 3 sets of 2 strands.
 
 ### Resources
 
