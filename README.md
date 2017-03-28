@@ -48,4 +48,8 @@ This repo is to plan and discuss a quilt making project using data from OpenStre
 * Find a community partner willing to display the finished (or growing) quilt.
   * Opodz in Little Tokyo?
   * The Craft and Folk Art Museum (CAFAM) in Mid-Wilshire?
-
+* Other embroidered map project ideas:
+ * Transit systems - LA Metro rail, freeway networks, cross-country rail lines, etc.
+ * Natural features - mountains, rivers, forests, etc.
+ * Various world map projections - Mercator, Gall-Peters, Robinson, Winkel-Tripel, Dymaxion/Fuller, Goode Homolosine, etc.
+ * Fictional maps - Narnia, Westeros, Middle Earth, etc.
