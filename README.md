@@ -1,5 +1,5 @@
 # craftmap_adventure
-This project an Open Source Embroidered Quilt using OSM data for anyone to jump in and contribute to.
+This project an Open Source Embroidered Quilt using OSM data for anyone to jump in and contribute to.  Slides from the workshop: https://slides.com/ninakin/maptime-embroidery#/
 
 ## Proposal
 This repo is to plan and discuss a quilt making project using data from OpenStreetMap.  By making a quilt of "fabric tiles", anyone can  add to the quilted map. This repo will also be a source for any city to replicate the project and make their own map quilt.  We will outline steps for workshops and list instructions for putting the quilt together.
